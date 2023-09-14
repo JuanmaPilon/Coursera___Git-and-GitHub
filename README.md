@@ -1,4 +1,4 @@
-# GitCoursera
-Course
-I am editing the README file. Adding some more details about the project deescription.
+# GitCoursera Course
+
+Short course of Meta about Git and GitHub
 
