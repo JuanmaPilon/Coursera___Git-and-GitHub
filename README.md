@@ -1,4 +1,4 @@
 # GitCoursera Course
 
-Short course of Meta about Git and GitHub
+Short course of Meta which i learnt more about Git and GitHub.
 
